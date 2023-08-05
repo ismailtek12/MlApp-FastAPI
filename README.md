@@ -9,16 +9,6 @@ Machine Learning Libraries: We will use popular ML libraries such as scikit-lear
 Jupyter Notebook: We will use Jupyter Notebooks for exploratory data analysis and model development.
 
 
-.
-├── app
-│   ├── main.py           # FastAPI application
-│   ├── base_data.py         # Pydantic models for request/response
-│   └── test_main.py          # Utility functions for data processing
-├── notebooks
-│   └── W4DataLeakage_and_BinaryClassif.ipynb   # Jupyter Notebook for model training and evaluation
-├── Dockerfile            # Dockerfile for containerizing the application
-├── requirements.txt      # Python dependencies
-├── README.md 
 
 
 ### API Deployment
